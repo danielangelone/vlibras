@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: VLibras - Unofficial
-Plugin URI: https://vlibras.gov.br/
+Plugin URI: https://github.com/danielangelone/vlibras
 Description: Plugin não oficial para integrar o VLibras ao WordPress.
 Version: 1.0
 Author: Daniel Angelone
